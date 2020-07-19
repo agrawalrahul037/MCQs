@@ -1,5 +1,5 @@
 # MCQs
-           (Intro MCQ of Reactjs)
+           
 Reactjs->
 ---------
 
